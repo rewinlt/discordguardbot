@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "SERVER_ID"
+    },
+
+    "Roles": {
+        "Jail_Role": "JAIL_ROL_ID",
+        "Booster_Role": "SERVER_BOOSTER_ROL"
+    },
+
+    "Channels": {
+        "Channel_Log": "CHANNEL_LOG_ID",
+        "Role_Log": "ROLE-LOG_ID",
+        "Other_Log": "OTHER_LOG_ID",
+        "Right_Click": "RIGHT_CLICK_LOG_ID"    
+    },
+
+    "Emojis": {
+        "Check": "CHECK_EMOJI_ID",
+        "Delete": "DELETE_EMOJI_ıd"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "FOOTER",
+        "Timeout": 10000
+    }
+}

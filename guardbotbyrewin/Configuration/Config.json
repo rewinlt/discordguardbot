@@ -1,0 +1,15 @@
+
+{
+    
+    "Bot": {
+        "Client_ID": "BOT CLIENT_ID",
+        "Token": "BOT TOKEN",
+        "Prefix": "BOT PREFİX",
+        "Owner": "BOT CODE/OWNER USER_ID/DISCORD_ID",
+        "Activity": "BOT PLAYİNG STATUS",
+        "Status_Type": "PLAYING",
+        "Status": "idle",
+        "Voice_Channel": "BOT VOİCE CHANNEL ID"
+    }
+
+}
